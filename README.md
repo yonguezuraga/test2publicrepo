@@ -1,2 +1,2 @@
 # test2publicrepo
-This is a public test repository
+Readme for this public test repository
